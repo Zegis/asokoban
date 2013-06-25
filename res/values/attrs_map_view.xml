@@ -1,0 +1,9 @@
+<resources>
+
+    <declare-styleable name="MapView">
+        <attr name="map" format="string"/>
+        <attr name="map_width" format="integer"/>
+        <attr name="map_height" format="integer"/>
+    </declare-styleable>
+
+</resources>
