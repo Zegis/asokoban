@@ -290,7 +290,7 @@ public class DisplayMessageActivity extends MenuActivity implements GestureDetec
 	
 	private boolean MoveCrate(int i, int j, FlingDirection direction)
 	{
-		boolean check = (mapData[i][j] == '*')? true : false;
+		boolean check = (mapData[i][j] == 'O')? true : false;
 		
 		switch(direction)
 		{
