@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\java\\AndroidStudio\\asokoban\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player.png",
+        "source": "D:\\java\\AndroidStudio\\asokoban\\app\\src\\main\\res\\drawable-mdpi\\player.png"
+    },
+    {
+        "merged": "D:\\java\\AndroidStudio\\asokoban\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\crate.png",
+        "source": "D:\\java\\AndroidStudio\\asokoban\\app\\src\\main\\res\\drawable-mdpi\\crate.png"
+    },
+    {
+        "merged": "D:\\java\\AndroidStudio\\asokoban\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\java\\AndroidStudio\\asokoban\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\java\\AndroidStudio\\asokoban\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placehere.png",
+        "source": "D:\\java\\AndroidStudio\\asokoban\\app\\src\\main\\res\\drawable-mdpi\\placehere.png"
+    },
+    {
+        "merged": "D:\\java\\AndroidStudio\\asokoban\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\brick.png",
+        "source": "D:\\java\\AndroidStudio\\asokoban\\app\\src\\main\\res\\drawable-mdpi\\brick.png"
+    },
+    {
+        "merged": "D:\\java\\AndroidStudio\\asokoban\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\crate_com.png",
+        "source": "D:\\java\\AndroidStudio\\asokoban\\app\\src\\main\\res\\drawable-mdpi\\crate_com.png"
+    }
+]
